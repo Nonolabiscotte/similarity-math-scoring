@@ -1,1 +1,11 @@
-/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/JaccardScorer.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/CosineSimilarity.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/JaccardScorer.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/LogisticRegressionModel.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/LogisticRegressionTrainer.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/Sigmoid.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/TfIdfVectorizer.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/Tokenizer.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/TrainingExample.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/demopipeline/EventDeduplicator.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/demopipeline/FullPipelineDemo.java
+/home/nomaechler/repositories/similarity-math-scoring/src/main/java/com/lab/demopipeline/RelevantScorer.java

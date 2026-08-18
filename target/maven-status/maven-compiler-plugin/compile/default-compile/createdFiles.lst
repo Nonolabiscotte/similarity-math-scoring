@@ -1,1 +1,11 @@
-com/JaccardScorer.class
+com/lab/Sigmoid.class
+com/lab/demopipeline/RelevantScorer.class
+com/lab/TfIdfVectorizer.class
+com/lab/TrainingExample.class
+com/lab/demopipeline/FullPipelineDemo.class
+com/lab/demopipeline/EventDeduplicator.class
+com/lab/JaccardScorer.class
+com/lab/LogisticRegressionTrainer.class
+com/lab/LogisticRegressionModel.class
+com/lab/CosineSimilarity.class
+com/lab/Tokenizer.class

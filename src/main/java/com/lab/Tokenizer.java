@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Tokenizer {
 
-    public static List<String> tokenize(String text) {
+    public List<String> tokenize(String text) {
         List<String> tokens = new ArrayList<>();
         String[] rawParts = text.toLowerCase().split("[^\\p{L}\\p{N}]+");
         for (String part : rawParts) {
